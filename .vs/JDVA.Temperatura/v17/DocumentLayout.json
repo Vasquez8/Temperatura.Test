@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\MINEDUCYT\\OneDrive\\Documentos\\JDVA.Temperatura\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40C37D74-83F2-4E74-8CD9-DDC6CCD251B5}|JDVA.Cadenas.UnitTest\\JDVA.Cadenas.UnitTest.csproj|c:\\users\\mineducyt\\onedrive\\documentos\\jdva.temperatura\\jdva.cadenas.unittest\\manipuladorcadenatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C37D74-83F2-4E74-8CD9-DDC6CCD251B5}|JDVA.Cadenas.UnitTest\\JDVA.Cadenas.UnitTest.csproj|solutionrelative:jdva.cadenas.unittest\\manipuladorcadenatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE375D41-C0A7-4F08-AB01-CCEE4865D13E}|JDVA.Cadenas\\JDVA.Cadenas.csproj|c:\\users\\mineducyt\\onedrive\\documentos\\jdva.temperatura\\jdva.cadenas\\manipuladorcadena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE375D41-C0A7-4F08-AB01-CCEE4865D13E}|JDVA.Cadenas\\JDVA.Cadenas.csproj|solutionrelative:jdva.cadenas\\manipuladorcadena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +31,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ManipuladorCadenaTest.cs",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\OneDrive\\Documentos\\JDVA.Temperatura\\JDVA.Cadenas.UnitTest\\ManipuladorCadenaTest.cs",
+              "RelativeDocumentMoniker": "JDVA.Cadenas.UnitTest\\ManipuladorCadenaTest.cs",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\OneDrive\\Documentos\\JDVA.Temperatura\\JDVA.Cadenas.UnitTest\\ManipuladorCadenaTest.cs",
+              "RelativeToolTip": "JDVA.Cadenas.UnitTest\\ManipuladorCadenaTest.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwEQAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T22:14:49.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ManipuladorCadena.cs",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\OneDrive\\Documentos\\JDVA.Temperatura\\JDVA.Cadenas\\ManipuladorCadena.cs",
+              "RelativeDocumentMoniker": "JDVA.Cadenas\\ManipuladorCadena.cs",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\OneDrive\\Documentos\\JDVA.Temperatura\\JDVA.Cadenas\\ManipuladorCadena.cs",
+              "RelativeToolTip": "JDVA.Cadenas\\ManipuladorCadena.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T22:14:45.94Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "JDVA.Cadenas/1.0.0": {
+        "runtime": {
+          "JDVA.Cadenas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JDVA.Cadenas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JDVA.Temperatura")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+776bfc9dc47df004fca82d19698f4c44966c89fd")]
 [assembly: System.Reflection.AssemblyProductAttribute("JDVA.Temperatura")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JDVA.Temperatura")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

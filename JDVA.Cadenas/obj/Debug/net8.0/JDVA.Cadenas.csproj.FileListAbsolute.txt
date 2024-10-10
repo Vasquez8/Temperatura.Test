@@ -1,0 +1,12 @@
+C:\Users\MINEDUCYT\OneDrive\Documentos\JDVA.Temperatura\JDVA.Cadenas\bin\Debug\net8.0\JDVA.Cadenas.deps.json
+C:\Users\MINEDUCYT\OneDrive\Documentos\JDVA.Temperatura\JDVA.Cadenas\bin\Debug\net8.0\JDVA.Cadenas.dll
+C:\Users\MINEDUCYT\OneDrive\Documentos\JDVA.Temperatura\JDVA.Cadenas\bin\Debug\net8.0\JDVA.Cadenas.pdb
+C:\Users\MINEDUCYT\OneDrive\Documentos\JDVA.Temperatura\JDVA.Cadenas\obj\Debug\net8.0\JDVA.Cadenas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\OneDrive\Documentos\JDVA.Temperatura\JDVA.Cadenas\obj\Debug\net8.0\JDVA.Cadenas.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\OneDrive\Documentos\JDVA.Temperatura\JDVA.Cadenas\obj\Debug\net8.0\JDVA.Cadenas.AssemblyInfo.cs
+C:\Users\MINEDUCYT\OneDrive\Documentos\JDVA.Temperatura\JDVA.Cadenas\obj\Debug\net8.0\JDVA.Cadenas.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\OneDrive\Documentos\JDVA.Temperatura\JDVA.Cadenas\obj\Debug\net8.0\JDVA.Cadenas.sourcelink.json
+C:\Users\MINEDUCYT\OneDrive\Documentos\JDVA.Temperatura\JDVA.Cadenas\obj\Debug\net8.0\JDVA.Cadenas.dll
+C:\Users\MINEDUCYT\OneDrive\Documentos\JDVA.Temperatura\JDVA.Cadenas\obj\Debug\net8.0\refint\JDVA.Cadenas.dll
+C:\Users\MINEDUCYT\OneDrive\Documentos\JDVA.Temperatura\JDVA.Cadenas\obj\Debug\net8.0\JDVA.Cadenas.pdb
+C:\Users\MINEDUCYT\OneDrive\Documentos\JDVA.Temperatura\JDVA.Cadenas\obj\Debug\net8.0\ref\JDVA.Cadenas.dll
